@@ -1,0 +1,10 @@
+../example/src/diffuse.c:20:6:draw3Daxis	216	static
+../example/src/diffuse.c:72:6:drawCube	536	static
+../example/src/diffuse.c:218:6:LineDDA	88	static
+../example/src/diffuse.c:247:5:getDiffuseColor	112	static
+../example/src/diffuse.c:273:15:points3dto2d	104	static
+../example/src/diffuse.c:308:5:pointInPolygon	56	static
+../example/src/diffuse.c:320:7:lambdaShadow	32	static
+../example/src/diffuse.c:326:11:getShadowPoints	56	static
+../example/src/diffuse.c:334:6:drawShadow	488	static
+../example/src/diffuse.c:418:6:colorPolygon	56	static

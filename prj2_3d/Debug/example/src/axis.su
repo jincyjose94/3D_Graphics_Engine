@@ -1,0 +1,7 @@
+../example/src/axis.c:17:6:draw3Daxis	216	static
+../example/src/axis.c:69:6:drawCube	416	static
+../example/src/axis.c:171:5:pointInPolygon	56	static
+../example/src/axis.c:183:7:lambdaShadow	32	static
+../example/src/axis.c:189:11:getShadowPoints	56	static
+../example/src/axis.c:197:6:drawShadow	488	static
+../example/src/axis.c:280:6:colorPolygon	56	static
