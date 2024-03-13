@@ -1,0 +1,9 @@
+../example/src/forest.c:22:9:vtop	32	static
+../example/src/forest.c:32:6:forest	48	static
+../example/src/forest.c:67:6:createTrees	136	static
+../example/src/forest.c:114:9:getx_irt	72	static
+../example/src/forest.c:131:7:createTree	48	static
+../example/src/forest.c:154:7:createCentreBranch	48	static
+../example/src/forest.c:174:7:createLeftBranch	64	static
+../example/src/forest.c:202:7:createRightBranch	64	static
+../example/src/forest.c:229:6:freeTree	16	static

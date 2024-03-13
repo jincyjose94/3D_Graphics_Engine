@@ -1,0 +1,4 @@
+../example/src/squares.c:15:6:drawSquare	40	static
+../example/src/squares.c:22:6:randomSquare	416	static
+../example/src/squares.c:41:6:childSquares	40	static
+../example/src/squares.c:51:6:ss_squares	424	static
